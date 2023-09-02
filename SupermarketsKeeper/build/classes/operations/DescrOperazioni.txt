@@ -1,0 +1,19 @@
+1--Insert di un nuovo prodotto elaborato
+2--Insert di un nuovo supermercato
+3--Insert di una nuova catena  di trasporto
+4--Il nome dei prodotti, il marchio,  le quantità vendute e la catena del supermercato dei prodotti venduti la quale quantità venduta che è presente tra le quantità vendute dei prodotti di una catena di supermercati specifica.
+5--Id supermercato, nome catena e nome catena trasporto del supermercato che ha una catena di trasporto con rating maggiore rispetto alla media.
+6--I nomi dei prodotti in magazzino, id del magazzino e il nome città appartenente al magazzino la cui quantità è minore della quantità media generale.
+7--La targa, il modello e la capienza dei veicoli che hanno trasportato in magazzino solo prodotti con la quantità più alta del magazzino associato.
+8--Lo stipendio delle persone per le catene di supermercati di tipo grande distribuzione che hanno stipendio minore o uguale della media.
+9--Il nome, il marchio e la quantità dei prodotti in magazzino con quantità trasportata minore uguale rispetto alla quantità in magazzino degli stessi in una certa data.
+10--I nomi dei prodotti in supermercato e nome Catena associata dei prodotti in supermercato che hanno quantità vendute minore rispetto a tutte le quantità dei prodotti nei magazzini che hanno una quantità minore rispetto alla media generale.
+11--Il nome delle catene di produzione grezzi, la quantità prodotta, il nome e il marchio di un prodotto grezzo che hanno prezzo minore rispetto al prezzo massimo.
+12--Il nome delle catene di produzione elaborati, la quantità prodotta il nome e il marchio di un prodotto elaborato che hanno prezzo maggiore rispetto alla media.
+13--Il nome dei prodotti in magazzino, il marchio e la quantità trasportata al supermercato se la quantità trasportata è maggiore rispetto alla capienza minima dei veicoli la cui catena di trasporto ha il più alto rating.
+14--Il nome e marchio di tutti i  prodotti presenti in un supermercato che non sono presenti in un altro supermercato e fanno parte delle catene di distribuzione organizzata.
+15--Nome, codice fiscale e stipendio dei direttori di tutti i supermercati delle catene con grossisti che hanno stipendio minore di quello più alto tra tutti i direttori esistenti.
+16--IdA, quantità acquistata, nome prod grezzo e marchio di tutti i prodotti con uguale quantità acquistata di uno in particolare in qualsiasi fornitura.
+17--Il nome delle catene di produzione elaborati che hanno prodotto quantità maggiore rispetto alla massima quantità prodotta di ogni fornitura fatta in un certo anno con prezzo maggiore a uno specifico.
+18--Il nome prodotto grezzo, il marchio, id fornitura e il nome delle catene di prodotti grezzi di tutte le forniture con una data di acquisto più recente.
+19--Il nome di una catena e la somma dei ricavi totali di qualsiasi catena che ha somma dei ricavi totali maggiore o uguali alla somma dei ricavi totali di una catena specifica.
