@@ -9,7 +9,7 @@
 <%
 String dbURL = "jdbc:mysql://localhost:3306/supermarkets_keeper";
 String dbUser = "root";
-String dbPass = "culo2118";
+String dbPass = "";
 
 String select = "SELECT";
 String insert = "INSERT";
